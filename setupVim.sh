@@ -15,3 +15,6 @@ mkdir -p ~/.vim/bundle
 cd ~/.vim/bundle
 git clone https://github.com/walm/jshint.vim
 
+# Install NERDTree
+cd ~/.vim/bundle
+git clone https://github.com/scrooloose/nerdtree.git
